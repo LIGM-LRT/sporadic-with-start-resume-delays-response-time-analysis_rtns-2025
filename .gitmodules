@@ -1,0 +1,3 @@
+[submodule "draw-schedule"]
+	path = draw-schedule
+	url = git@git.esiee.fr:massond/draw-schedule.git
