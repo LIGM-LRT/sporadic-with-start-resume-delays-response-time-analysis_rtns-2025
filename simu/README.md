@@ -1,0 +1,3 @@
+# simu
+
+Run `./fixpoint.py`
